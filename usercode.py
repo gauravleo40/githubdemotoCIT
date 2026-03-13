@@ -1,6 +1,6 @@
 
 
-import code01
+import mymodule as code01
 
 
 # dir(code01)
